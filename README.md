@@ -23,5 +23,5 @@ gradle build
 
 ```sh
 cd mill
-mill foo.{clean,test}
+mill foo.test
 ```
